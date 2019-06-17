@@ -1,0 +1,13 @@
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.csprojAssemblyReference.cache
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.Form1.resources
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.Properties.Resources.resources
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.csproj.GenerateResource.cache
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.csproj.CoreCompileInputs.cache
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\bin\Debug\Karta_postaci.exe.config
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\bin\Debug\Karta_postaci.exe
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\bin\Debug\Karta_postaci.pdb
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.exe
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.pdb
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\obj\Debug\Karta_postaci.Form2.resources
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\bin\Debug\Database1.mdf
+C:\Users\Gawlos\source\repos\Karta_postaci\Karta_postaci\bin\Debug\Database1_log.ldf
